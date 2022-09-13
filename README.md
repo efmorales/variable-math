@@ -18,7 +18,7 @@ Finlly, log out `num1`, `num2`, and `sum` in a human readable sentence (i.e.: "8
 
 #### `greeter.js`
 
-Create a variable `name` and store your name in it.
+Create a variable `myName` and store your name in it.
 
 Below this, write a line of code that displays some greeting to that name (i.e.: "Hello Barry!")
 
