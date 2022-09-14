@@ -16,6 +16,7 @@ Note: you'll need to do the formula twice. For `x1`, use a + in place of the ± 
 
 */
 
+
 let a = 1
 let b = 9
 let c = 2
@@ -27,4 +28,4 @@ let x1 = (b2 + op1) / 2 * a
 let x2 = (b2 - op1) / 2 * a
 
 console.log(`For the fist version of the quadratic formula, the addition ver. has the result of: ${x1}`)
-console.log(`For the fist version of the quadratic formula, the substraction ver. has the result of: ${x2}`)
+console.log(`For the second version of the quadratic formula, the substraction ver. has the result of: ${x2}`)
